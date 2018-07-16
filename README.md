@@ -1,5 +1,5 @@
 # Árboles genéricos
-> 1. Implementación de un árbol de tipo Left-Child Right-Sibling (LCRS)
+> 1. árbol de tipo Left-Child Right-Sibling (LCRS)
 
 > 2. programa en Java que permita gestionar los árboles genealógicos de las familias que aparecen en la serie Juego de Tronos.
 >Contiene la siguiente funcionalidad.
